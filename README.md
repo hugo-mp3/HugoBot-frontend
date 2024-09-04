@@ -1,4 +1,7 @@
 # HugoBot-frontend
+
+Backend - https://github.com/hugo-mp3/HugoBot-backend
+
 Overview:
 This project is the frontend for a virtual companion application, which leverages technologies such as React, Three.js, Tailwind CSS, and integrates with a backend API for chat functionality.
 
